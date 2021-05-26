@@ -426,11 +426,9 @@ img{
     bottom: 15%;
   }
   .home__blob{
-    /* width:200px; */
     fill: var(--first-color);
   }
   .home__blob-img{
-
     width:170px;
   }
 
