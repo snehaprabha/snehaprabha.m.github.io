@@ -425,6 +425,14 @@ img{
     width: 457px;
     bottom: 15%;
   }
+  .home__blob{
+    /* width:200px; */
+    fill: var(--first-color);
+  }
+  .home__blob-img{
+
+    width:170px;
+  }
 
   .about__container, .skills__container{
     grid-template-columns: repeat(2,1fr);
